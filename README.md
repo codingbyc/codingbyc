@@ -1,8 +1,8 @@
-[![MasterHead]https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fgif-animation%3Fo%3Ddesc%26s%3Dstars&psig=AOvVaw1OKEEn3tjVzb4DB_3B-H3c&ust=1723022714417000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJj5p_iF4IcDFQAAAAAdAAAAABBq]
+[![MasterHead](https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif)
 <h1 align="center">Hi 👋, I'm Chirayu Singh</h1>
 <h3 align="center">A passionate Learner from INDIA</h3>
 
-<p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2kjDc9hHv4-aLd2LMk0tXn&ust=1723022553303000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCID266uF4IcDFQAAAAAdAAAAABAE" /> </p>
+<p align="left"> <img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966 /> </p>
 
 - 🔭 I’m currently working on **Self-Portfolio**
 
